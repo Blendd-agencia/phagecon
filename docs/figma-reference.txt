@@ -1,0 +1,600 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/5541269f-f8dc-4c9e-83f9-26936fcd486e";
+const imgLogoHorizontalTaglineNegativo2 = `${assetPathPrefix}/04cfe.png`;
+const imgCorporateBusinessmenWorkingTabletOffice2 = `${assetPathPrefix}/4df16.png`;
+const imgFigure = `${assetPathPrefix}/dc955.png`;
+const imgFigure1 = `${assetPathPrefix}/3ad29.png`;
+const imgFigure2 = `${assetPathPrefix}/c9a86.png`;
+const imgRectangle5441 = `${assetPathPrefix}/12a2f.png`;
+const imgRectangle5442 = `${assetPathPrefix}/0aeac.png`;
+const imgRectangle5443 = `${assetPathPrefix}/d1e0e.png`;
+const imgImgPhageconAbout3 = `${assetPathPrefix}/ef7ed.png`;
+const imgGroup = `${assetPathPrefix}/749cf.svg`;
+const imgCorporateBusinessmenWorkingTabletOffice1 = `${assetPathPrefix}/81c88.svg`;
+const imgMaskGroup = `${assetPathPrefix}/861e0.svg`;
+const imgExploreOurServices = `${assetPathPrefix}/e0d91.svg`;
+const imgGroup1 = `${assetPathPrefix}/0ac1c.svg`;
+const imgGroup2 = `${assetPathPrefix}/ad173.svg`;
+const imgCamada1 = `${assetPathPrefix}/f2b90.svg`;
+const imgGroup3 = `${assetPathPrefix}/2e20a.svg`;
+const imgEllipse19 = `${assetPathPrefix}/98363.svg`;
+const imgEllipse20 = `${assetPathPrefix}/4b975.svg`;
+const imgImgPhageconAbout2 = `${assetPathPrefix}/0b653.svg`;
+const imgImgPhageconAbout1 = `${assetPathPrefix}/b7659.svg`;
+const imgGlowElements = `${assetPathPrefix}/24958.svg`;
+const imgGlowElements1 = `${assetPathPrefix}/089c7.svg`;
+const imgVector = `${assetPathPrefix}/fa248.svg`;
+const imgVector1 = `${assetPathPrefix}/cacca.svg`;
+const imgVector2 = `${assetPathPrefix}/0db3a.svg`;
+const imgVector3 = `${assetPathPrefix}/c2486.svg`;
+const imgLine1 = `${assetPathPrefix}/c51c4.svg`;
+const imgGroup4 = `${assetPathPrefix}/21692.svg`;
+const imgSvg = `${assetPathPrefix}/3d3be.svg`;
+
+export default function HomepagePhageconLoop1() {
+  return (
+    <div className="bg-[#301c6b] relative size-full" data-node-id="15079:793" data-name="Homepage [PHAGECON] [LOOP1]">
+      <div className="absolute bg-[#301c6b] h-[683px] left-[-2px] overflow-clip right-px top-[5521px]" data-node-id="15079:794" data-name="FOOTER">
+        <div className="absolute h-[541.98px] left-[48px] right-[48px] top-[96px]" data-node-id="15079:795" data-name="Container">
+          <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[104px] leading-[50px] left-[59px] text-[36px] text-white top-[5px] w-[536px]" data-node-id="15079:796">
+            Let’s Stay Connected with Phagecon Updates
+          </p>
+          <div className="absolute h-[64px] left-[672px] right-[12px] top-[17.08px]" data-node-id="15079:797" data-name="Form">
+            <div className="absolute backdrop-blur-[2.5px] border border-[rgba(255,255,255,0.3)] border-solid h-[53px] left-[-10px] overflow-clip right-[203px] rounded-[3px] top-[-0.08px]" data-node-id="15079:798" data-name="Input">
+              <div className="absolute h-[17px] left-[19px] overflow-clip right-[56px] top-[18px]" data-node-id="15079:799" data-name="Container">
+                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Nunito:Regular'] font-normal h-[17px] justify-center leading-[0] left-0 text-[14px] text-white top-[8.92px] w-[147px]" data-node-id="15079:800">
+                  <p className="font-['Inter:Regular'] not-italic">
+                    <span className="leading-[normal]">Insert Email</span>
+                    <span className="leading-[normal] text-[9.030000000000001px]">*</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bg-[#1d9dbc] content-stretch flex gap-[8px] items-center justify-center left-[464px] px-[30px] py-[16px] rounded-[3px] top-[-0.08px]" data-node-id="15079:801" data-name="Button style two">
+              <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:801;6:815">
+                Subscribe
+              </p>
+              <div className="relative shrink-0 size-[14px]" data-node-id="I15079:801;17:796" data-name="Group">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] absolute font-['Nunito:Regular'] font-normal h-[34px] leading-[0] left-0 not-italic text-[0px] text-[rgba(255,255,255,0.65)] top-[67.92px] w-[447px]" data-node-id="15079:802">
+              <span className="font-['Inter:Regular'] leading-[normal] text-[9.030000000000001px]">*</span>
+              <span className="font-['Inter:Regular'] leading-[normal] text-[12px]">{`By entering your email address, you agree to receive our newsletter in accordance with our `}</span>
+              <span className="[text-underline-position:from-font] decoration-from-font decoration-solid font-['Inter:Regular'] leading-[normal] text-[12px] underline">Privacy Policy</span>
+              <span className="font-['Inter:Regular'] leading-[normal] text-[12px]">.</span>
+            </p>
+          </div>
+          <div className="absolute h-[20px] left-[33px] top-[272.5px] w-[148px]" data-node-id="15079:803" data-name="Link">
+            <div className="absolute h-[46px] left-0 top-[-11.35px] w-[148px]" data-node-id="15079:804" data-name="Atek" />
+          </div>
+          <div className="absolute aspect-[4096/935] left-[3.05%] right-[82.3%] top-[259px]" data-node-id="15079:805" data-name="logo-horizontal-tagline-negativo 2">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoHorizontalTaglineNegativo2} />
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[76px] justify-center leading-[0] left-[59px] not-italic text-[16px] text-[rgba(255,255,255,0.65)] top-[361px] w-[304px]" data-node-id="15079:806">
+            <p className="leading-[26px]">Trusted pharmaceutical consulting and regulatory services focused on quality, safety, and compliance.</p>
+          </div>
+          <div className="absolute border border-solid border-white left-[1163px] rounded-[3px] size-[32px] top-[408.15px]" data-node-id="15079:807" data-name="Link">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Font_Awesome_5_Brands:Regular'] h-[16px] justify-center leading-[0] left-[calc(50%-0.84px)] not-italic text-[16px] text-center text-white top-[15.85px] w-[10.313px]" data-node-id="15079:808">
+              <p className="leading-[16px]">{`\uF39E`}</p>
+            </div>
+          </div>
+          <div className="absolute border border-solid border-white left-[1209.91px] rounded-[3px] size-[32px] top-[408.15px]" data-node-id="15079:811" data-name="Link">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Font_Awesome_5_Brands:Regular'] h-[16px] justify-center leading-[0] left-[calc(50%+0.18px)] not-italic text-[16px] text-center text-white top-[16px] w-[14.363px]" data-node-id="15079:812">
+              <p className="leading-[16px]">{`\uF0E1`}</p>
+            </div>
+          </div>
+          <div className="absolute border border-solid border-white left-[1256.81px] rounded-[3px] size-[32px] top-[408.15px]" data-node-id="15079:815" data-name="Link">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Font_Awesome_5_Brands:Regular'] h-[16px] justify-center leading-[0] left-[calc(50%+0.18px)] not-italic text-[16px] text-center text-white top-[16px] w-[14.363px]" data-node-id="15079:816">
+              <p className="leading-[16px]">{`\uF16D`}</p>
+            </div>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:SemiBold'] font-semibold h-[20px] justify-center leading-[0] left-[479.3px] text-[20px] text-white top-[268.76px] w-[104px]" data-node-id="15079:817">
+            <p className="leading-[20px]">Explore</p>
+          </div>
+          <div className="absolute h-[189px] left-[479.3px] right-[714.61px] top-[304.76px]" data-node-id="15079:818" data-name="List">
+            <div className="absolute h-[21px] left-0 rounded-[8px] top-0 w-[69.22px]" data-node-id="15079:819" data-name="Item → Link">
+              <div className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[198px] leading-[0] left-[-0.3px] not-italic text-[16px] text-[rgba(255,255,255,0.65)] top-[0.24px] w-[188px]" data-node-id="15079:820">
+                <p className="leading-[36px] mb-0">About Us</p>
+                <p className="leading-[36px] mb-0">Services</p>
+                <p className="leading-[36px] mb-0">{`News & Events`}</p>
+                <p className="leading-[36px]">Contacts</p>
+              </div>
+            </div>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:SemiBold'] font-semibold h-[20px] justify-center leading-[0] left-[719px] text-[20px] text-white top-[269px] w-[210px]" data-node-id="15079:821">
+            <p className="leading-[20px]">Legal Links</p>
+          </div>
+          <div className="absolute h-[189px] left-[719.3px] right-[474.61px] top-[304.76px]" data-node-id="15079:822" data-name="List">
+            <div className="absolute h-[21px] left-[-0.3px] rounded-[8px] top-[0.24px] w-[264px]" data-node-id="15079:823" data-name="Item → Link">
+              <div className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[160px] leading-[0] left-0 not-italic text-[16px] text-[rgba(255,255,255,0.65)] top-0 w-[162px]" data-node-id="15079:824">
+                <p className="leading-[36px] mb-0">{`Terms & Conditions`}</p>
+                <p className="leading-[36px] mb-0">Privacy Policy</p>
+                <p className="leading-[36px] mb-0">Cookies Policy</p>
+                <p className="leading-[36px]">Compliance Policy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute border-[rgba(233,246,249,0.2)] border-solid border-t h-[65px] left-0 right-0 top-[617.98px]" data-node-id="15079:840" data-name="HorizontalBorder">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[28px] justify-center leading-[0] left-[106px] not-italic text-[14px] text-white top-[32.02px] w-[73px]" data-node-id="15079:841">
+            <p className="leading-[28px]">© 2026</p>
+          </div>
+          <div className="absolute h-[20px] left-[105px] top-[22.02px] w-[376px]" data-node-id="15079:842" data-name="Link">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[20px] justify-center leading-[0] left-[59px] not-italic text-[14px] text-white top-[10px] w-[502px]" data-node-id="15079:843">
+              <p className="leading-[28px]">Phagecon. All rights reserved</p>
+            </div>
+          </div>
+          <div className="absolute h-[26px] left-[732px] right-[81px] top-[19.02px]" data-node-id="15079:844" data-name="List">
+            <div className="absolute h-[20px] right-0 top-[3px] w-[104.67px]" data-node-id="15079:845" data-name="Item → Link">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[20px] justify-center leading-[0] not-italic right-[23px] text-[14px] text-right text-white top-[10px] w-[551px]" data-node-id="15079:846">
+                <p>
+                  <span className="leading-[26px]">{`Powered by `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[26px] underline">Blendd</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute flex inset-[233.91px_2.6%_415.09px_2.47%] items-center justify-center" data-node-id="15079:847" style={{ containerType: "size" }}>
+          <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+            <div className="border-solid border-t border-white relative size-full" data-name="Horizontal Divider" />
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[632px] left-0 top-[4886px] w-[1440px]" data-node-id="15079:848" data-name="CTA">
+        <div className="absolute contents left-0 top-0" data-node-id="15079:849" data-name="Mask group">
+          <div className="absolute h-[810px] left-[-1px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[1px_0px] mask-size-[1439px_632px] top-0 w-[1440px]" data-node-id="15079:851" style={{ maskImage: `url("${imgCorporateBusinessmenWorkingTabletOffice1}")` }} data-name="corporate-businessmen-working-tablet-office 1">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgCorporateBusinessmenWorkingTabletOffice2} />
+          </div>
+        </div>
+        <div className="absolute bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[632px] left-0 to-[#301c6b] top-0 w-[1440px]" data-node-id="15079:852" data-name="filter-bottom" />
+        <div className="absolute bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[632px] left-0 to-[#301c6b] top-0 w-[1440px]" data-node-id="15079:853" data-name="filter-bottom" />
+        <div className="absolute flex h-[632px] items-center justify-center left-0 top-0 w-[1440px]" data-node-id="15079:854">
+          <div className="flex-none rotate-180">
+            <div className="bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[632px] relative to-[#301c6b] w-[1440px]" data-name="filter-top" />
+          </div>
+        </div>
+        <div className="absolute flex h-[632px] items-center justify-center left-0 top-0 w-[1440px]" data-node-id="15079:855">
+          <div className="flex-none rotate-180">
+            <div className="bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[632px] relative to-[#301c6b] w-[1440px]" data-name="filter-top" />
+          </div>
+        </div>
+        <div className="absolute h-[32px] left-[459px] top-[221px] w-[522px]" data-node-id="15079:856" data-name="subtitle">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[32px] justify-center leading-[0] left-[-35px] not-italic text-[14px] text-white top-[-4px] tracking-[6px] uppercase w-[593px]" data-node-id="15079:857">
+            <p className="leading-[32px]">Your Partner in Pharmaceutical Excellence</p>
+          </div>
+          <div className="absolute bg-white h-px left-[-142px] top-[-4px] w-[79px]" data-node-id="15079:858" />
+          <div className="absolute bg-white h-px left-[585px] top-[-4px] w-[79px]" data-node-id="15079:859" />
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[109px] leading-[48px] left-[261px] text-[42px] text-center text-white top-[44px] w-[806px]" data-node-id="15079:860">
+            Discover how our expertise can support your Business Goals
+          </p>
+        </div>
+        <div className="absolute bg-[#1d9dbc] content-stretch flex gap-[8px] items-center justify-center left-[613px] px-[30px] py-[16px] rounded-[3px] top-[400px]" data-node-id="15079:861" data-name="Button style two">
+          <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:861;6:815">
+            Contact Our Team
+          </p>
+          <div className="relative shrink-0 size-[14px]" data-node-id="I15079:861;17:796" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex h-[1258px] items-center justify-center left-[-2px] top-[3524px] w-[578px]" data-node-id="15079:862">
+        <div className="flex-none rotate-180">
+          <div className="h-[1258px] relative w-[578px]" data-name="Mask group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMaskGroup} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[945.99px] left-[55px] top-[3818px] w-[1280px]" data-node-id="15079:865" data-name="NEWS & EVENTS">
+        <div className="absolute bg-[#1d9dbc] h-[999px] left-0 rounded-[3px] top-[9px] w-[1331px]" data-node-id="15079:866" />
+        <div className="absolute h-[772.99px] left-0 top-[176px] w-[1280px]" data-node-id="15079:867" data-name="Info & Cases">
+          <div className="absolute border border-solid border-white inset-[192px_664px_22.99px_50px] overflow-clip rounded-[3px]" data-node-id="15079:868" data-name="Border">
+            <div className="absolute h-[307px] left-0 overflow-clip right-0 rounded-[3px] top-0" data-node-id="15079:869" data-name="Figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[122.54%] left-0 max-w-none top-[-1.12%] w-full" src={imgFigure} />
+              </div>
+            </div>
+            <div className="absolute h-[24px] left-[24px] top-[331.2px] w-[104px]" data-node-id="15079:871" data-name="Link">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-0 not-italic text-[#301c6b] text-[16px] top-[12.2px] w-[104px]" data-node-id="15079:872">
+                <p className="leading-[24px]">Categoria</p>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 absolute h-[35px] left-[24px] top-[calc(50%+102.5px)] w-[530px]" data-node-id="15079:873" data-name="Link">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:SemiBold'] font-semibold h-[48px] justify-center leading-[0] left-0 text-[30px] text-white top-[17.2px] w-[542px]" data-node-id="15079:874">
+                <p className="leading-[35.2px]">{`Lorem ipsum dolor sit amet `}</p>
+              </div>
+            </div>
+            <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[89px] leading-[26px] left-[24px] not-italic opacity-70 text-[16px] text-white top-[406px] w-[512px]" data-node-id="15079:875">
+              Pellentesque dolor est, molestie at risus ac, elementum congue magna. Phasellus eleifend, massa eu auctor lobortis, justo risus consequat sem vitae vulputate lorem elementum congue ...
+            </p>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-[24px] not-italic opacity-50 text-[#301c6b] text-[16px] top-[520.2px] w-[178px]" data-node-id="15079:876">
+              <p className="leading-[24px]">september 27, 2026</p>
+            </div>
+          </div>
+          <div className="absolute border border-solid border-white inset-[191.8px_0_324.19px_664px] overflow-clip rounded-[3px]" data-node-id="15079:877" data-name="Border">
+            <div className="absolute h-[255px] left-0 overflow-clip rounded-[3px] top-0 w-[250px]" data-node-id="15079:878" data-name="Figure">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgFigure1} />
+            </div>
+            <div className="absolute inset-[0_364px_0_0]" data-node-id="15079:880" data-name="Link" />
+            <div className="absolute h-[24px] left-[274px] right-[24px] top-[24px]" data-node-id="15079:881" data-name="Container">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-0 not-italic text-[#301c6b] text-[16px] top-[12.2px] w-[136px]" data-node-id="15079:882">
+                <p className="leading-[24px]">Categoria</p>
+              </div>
+            </div>
+            <div className="absolute h-[24px] left-[274px] right-[24px] top-[56px]" data-node-id="15079:883" data-name="Link">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:SemiBold'] font-semibold h-[24px] justify-center leading-[0] left-0 text-[20px] text-white top-[12.2px] w-[316px]" data-node-id="15079:884">
+                <p className="leading-[24px]">Lorem ipsum dolor sit amet</p>
+              </div>
+            </div>
+            <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[108px] leading-[24px] left-[274px] not-italic opacity-70 text-[16px] text-white top-[88.2px] w-[282px]" data-node-id="15079:885">
+              Lorem ipsum dolor sit amet elit pellentesque dolor est, molestie at risus ac, elementum congue magna sellus eleifend, massa...
+            </p>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-[274px] not-italic opacity-50 text-[#301c6b] text-[16px] top-[218.2px] w-[178px]" data-node-id="15079:886">
+              <p className="leading-[24px]">august 11, 2026</p>
+            </div>
+          </div>
+          <div className="absolute border border-solid border-white inset-[488.8px_0_27.19px_664px] overflow-clip rounded-[3px]" data-node-id="15079:888" data-name="Border">
+            <div className="absolute h-[255px] left-0 overflow-clip rounded-[3px] top-0 w-[250px]" data-node-id="15079:889" data-name="Figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[151.45%] left-[-2.8%] max-w-none top-[-49.03%] w-[123.53%]" src={imgFigure2} />
+              </div>
+            </div>
+            <div className="absolute inset-[0_364px_0_0]" data-node-id="15079:891" data-name="Link" />
+            <div className="absolute h-[24px] left-[274px] right-[24px] top-[24px]" data-node-id="15079:892" data-name="Container">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-0 not-italic text-[#301c6b] text-[16px] top-[12px] w-[122.86px]" data-node-id="15079:893">
+                <p className="leading-[24px]">Categoria</p>
+              </div>
+            </div>
+            <div className="absolute h-[24px] left-[274px] right-[24px] top-[56px]" data-node-id="15079:894" data-name="Link">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:SemiBold'] font-semibold h-[24px] justify-center leading-[0] left-0 text-[20px] text-white top-[12.2px] w-[325px]" data-node-id="15079:895">
+                <p className="leading-[24px]">Lorem ipsum dolor sit amet</p>
+              </div>
+            </div>
+            <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[107px] leading-[24px] left-[274px] not-italic opacity-70 text-[16px] text-white top-[88.2px] w-[282px]" data-node-id="15079:896">
+              Lorem ipsum dolor sit amet elit pellentesque dolor est, molestie at risus ac, elementum congue magna sellus eleifend, massa...
+            </p>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[24px] justify-center leading-[0] left-[274px] not-italic opacity-50 text-[#301c6b] text-[16px] top-[218.2px] w-[178px]" data-node-id="15079:897">
+              <p className="leading-[24px]">july 03, 2026</p>
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[32px] left-[50px] top-[81px] w-[522px]" data-node-id="15079:898" data-name="subtitle">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[32px] justify-center leading-[0] left-[107px] not-italic text-[14px] text-white top-[16px] tracking-[6px] uppercase w-[224px]" data-node-id="15079:899">
+            <p className="leading-[32px]">{`NEWS & EVENTS`}</p>
+          </div>
+          <div className="absolute bg-white h-px left-0 top-[16px] w-[79px]" data-node-id="15079:900" />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[145px] leading-[48px] left-[50px] text-[42px] text-white top-[154px] w-[615px]" data-node-id="15079:901">
+          Stay informed about our Latest News, Insights and Activities
+        </p>
+        <div className="absolute bg-[#301c6b] content-stretch flex gap-[8px] h-[56px] items-center justify-center left-[1142px] px-[30px] py-[16px] rounded-[3px] top-[232px]" data-node-id="15079:902" data-name="Button style two">
+          <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:902;6:815">
+            View All
+          </p>
+          <div className="relative shrink-0 size-[14px]" data-node-id="I15079:902;17:796" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute h-[176px] left-[20px] not-italic text-center top-[3467px] w-[1401px]" data-node-id="15079:903" data-name="FUC FACTS">
+        <div className="absolute h-[176px] leading-[0] left-[-44px] top-0 w-[428px]" data-node-id="15079:904" data-name="20-years">
+          <p className="-translate-x-1/2 absolute font-['Syne:Extra'] h-[176px] left-[231px] text-[#1d9dbc] text-[0px] top-px w-[428px]" data-node-id="15079:905">
+            <span className="font-['Inter:Extra_Bold'] font-extrabold leading-[150px] text-[120px]">20</span>
+            <span className="font-['Inter:Extra_Bold'] font-extrabold leading-[150px] text-[80px]">+</span>
+          </p>
+          <div className="-translate-x-1/2 absolute font-['Inter:Medium'] font-medium h-[20px] left-[calc(50%+0.5px)] text-[14px] text-white top-[149px] tracking-[4px] uppercase w-[297px]" data-node-id="15079:906">
+            <p className="leading-[24px] mb-0">YEARS OF</p>
+            <p className="leading-[24px]">EXPERIENCE</p>
+          </div>
+        </div>
+        <div className="absolute h-[176px] left-[295px] top-0 w-[428px]" data-node-id="15079:907" data-name="7-service-areas">
+          <p className="-translate-x-1/2 absolute font-['Inter:Extra_Bold'] font-extrabold leading-[150px] left-[214px] text-[#1d9dbc] text-[120px] top-0 w-[428px]" data-node-id="15079:908">
+            8
+          </p>
+          <div className="-translate-x-1/2 absolute font-['Inter:Medium'] font-medium h-[20px] leading-[0] left-[calc(50%+0.5px)] text-[14px] text-white top-[149px] tracking-[4px] uppercase w-[297px]" data-node-id="15079:909">
+            <p className="leading-[24px] mb-0">INTEGRATED</p>
+            <p className="leading-[24px]">SERVICES AREAS</p>
+          </div>
+        </div>
+        <div className="absolute h-[176px] leading-[0] left-[662px] top-0 w-[428px]" data-node-id="15079:910" data-name="100-quality">
+          <p className="-translate-x-1/2 absolute font-['Syne:Extra'] h-[176px] left-[214px] text-[#1d9dbc] text-[0px] top-0 w-[428px]" data-node-id="15079:911">
+            <span className="font-['Inter:Extra_Bold'] font-extrabold leading-[150px] text-[120px]">50</span>
+            <span className="font-['Inter:Extra_Bold'] font-extrabold leading-[150px] text-[80px]">+</span>
+          </p>
+          <div className="-translate-x-1/2 absolute font-['Inter:Medium'] font-medium h-[20px] left-[calc(50%+0.5px)] text-[14px] text-white top-[149px] tracking-[4px] uppercase w-[297px]" data-node-id="15079:912">
+            <p className="leading-[24px] mb-0">QUALIFIED</p>
+            <p className="leading-[24px]">PROFESSIONALS</p>
+          </div>
+        </div>
+        <div className="absolute h-[176px] left-[1017px] top-0 w-[428px]" data-node-id="15079:913" data-name="50-pharmaceutical">
+          <p className="-translate-x-1/2 absolute font-['Inter:Extra_Bold'] font-extrabold h-[176px] leading-[150px] left-[214px] text-[#1d9dbc] text-[120px] top-0 w-[428px]" data-node-id="15079:914">
+            4
+          </p>
+          <p className="-translate-x-1/2 absolute font-['Inter:Medium'] font-medium h-[20px] leading-[24px] left-[calc(50%+0.5px)] text-[14px] text-white top-[149px] tracking-[4px] uppercase w-[297px]" data-node-id="15079:915">
+            CLIENTS ACROSS CONTINENTS
+          </p>
+        </div>
+      </div>
+      <div className="absolute h-[1025px] left-0 top-[2216px] w-[1440px]" data-node-id="15079:916" data-name="SERVICES">
+        <div className="absolute contents left-0 top-0" data-node-id="15079:917" data-name="Mask group">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[196px] justify-center leading-[0] left-[calc(50%-869px)] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[149px_0px] mask-size-[1440px_246px] not-italic text-[140px] text-[rgba(29,157,188,0.25)] top-[calc(50%-414.5px)] tracking-[4px] w-[2941px]" data-node-id="15079:919" style={{ maskImage: `url("${imgExploreOurServices}")` }}>
+            <p className="leading-[196px]">EXPLORE OUR SERVICES</p>
+          </div>
+        </div>
+        <div className="absolute bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[167px] left-0 to-[#301c6b] top-[-12px] w-[1440px]" data-node-id="15079:920" data-name="filter-bottom" />
+        <div className="absolute contents left-0 top-[155px]" data-node-id="15079:921" data-name="P-element">
+          <div className="absolute inset-[18.37%_49.01%_-23.89%_-17.58%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[253.131px_-33.286px] mask-size-[858.786px_1153px]" data-node-id="15079:923" style={{ maskImage: `url("${imgGroup1}")` }} data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2} />
+          </div>
+        </div>
+        <div className="absolute h-[32px] left-[459px] top-[231px] w-[522px]" data-node-id="15079:933" data-name="subtitle">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[32px] justify-center leading-[0] left-[107px] not-italic text-[14px] text-white top-[16px] tracking-[6px] uppercase w-[276px]" data-node-id="15079:934">
+            <p className="leading-[32px]">HOW WE CAN HELP YOU</p>
+          </div>
+          <div className="absolute bg-white h-px left-0 top-[16px] w-[79px]" data-node-id="15079:935" />
+          <div className="absolute bg-white h-px left-[411px] top-[16px] w-[79px]" data-node-id="15079:936" />
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[140px] leading-[0] left-[261px] not-italic text-[16px] text-center text-white top-[74px] tracking-[0.6px] w-[656px]" data-node-id="15079:937">
+            <span className="leading-[26px]">{`Phagecon offers a wide range of services in regulatory affairs, pharmacovigilance, medical and scientific affairs, and pharmaceutical affairs, enabling them to support the `}</span>
+            <span className="font-['Inter:Semi_Bold'] font-semibold leading-[26px] text-[#1d9dbc]">full lifecycle of pharmaceutical companies</span>
+            <span className="leading-[26px]">{` and their health products. With specialized solutions, always focusing on safety, quality, and regulatory compliance.`}</span>
+          </p>
+        </div>
+        <div className="absolute h-[415px] left-[314px] rounded-[3px] top-[514px] w-[803px]" data-node-id="15079:938">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[3px]">
+            <img alt="" className="absolute h-[112.48%] left-[-29.18%] max-w-none top-[-9.88%] w-[135.68%]" src={imgRectangle5441} />
+          </div>
+        </div>
+        <div className="absolute h-[342px] left-0 rounded-br-[3px] rounded-tr-[3px] top-[551px] w-[246px]" data-node-id="15079:939">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-br-[3px] rounded-tr-[3px]">
+            <img alt="" className="absolute h-full left-[-169.56%] max-w-none top-[0.12%] w-[294.13%]" src={imgRectangle5442} />
+          </div>
+        </div>
+        <div className="absolute bg-[rgba(48,28,107,0.35)] h-[342px] left-0 rounded-br-[3px] rounded-tr-[3px] top-[551px] w-[246px]" data-node-id="15079:940" />
+        <div className="absolute h-[342px] left-[1185px] rounded-bl-[3px] rounded-tl-[3px] top-[551px] w-[255px]" data-node-id="15079:941">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-bl-[3px] rounded-tl-[3px]">
+            <img alt="" className="absolute h-full left-[-46.38%] max-w-none top-[-0.06%] w-[201.23%]" src={imgRectangle5443} />
+          </div>
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[20px] justify-center leading-[0] left-[calc(50%-615px)] not-italic text-[12px] text-white top-[1098px] tracking-[4px] uppercase w-[667px]" data-node-id="15079:943">
+          <p className="leading-[24px] whitespace-pre-wrap">{`SCROLL TO NAVIGATE OR CLICK AND DRAG  >>`}</p>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[56px] leading-[48px] left-[314px] text-[#1d9dbc] text-[24px] top-[944px] w-[615px]" data-node-id="15079:944">
+          GOOD MANUFACTERING PRATICES
+        </p>
+        <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[56px] leading-[48px] left-[1185px] text-[#1d9dbc] text-[24px] top-[944px] w-[634px]" data-node-id="15079:945">
+          TRANSLATIONS
+        </p>
+        <div className="absolute border-solid border-t border-white inset-[1137.91px_2.53%_-113.91px_2.47%]" data-node-id="15079:946" data-name="Horizontal Divider" />
+        <div className="absolute bg-gradient-to-t from-[#ca6ffa] h-[415px] left-[314px] rounded-[3px] to-[82.53%] to-[rgba(202,111,250,0.3)] top-[514px] w-[803px]" data-node-id="15079:947" />
+        <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[78px] leading-[26px] left-[354px] not-italic text-[16px] text-white top-[823px] tracking-[0.6px] w-[592px]" data-node-id="15079:948">
+          Internal and external audits, gap analysis, and support for regulatory inspections, ensuring full cGMP compliance and continuous improvement.
+        </p>
+        <div className="absolute inset-[70.05%_69.58%_21.76%_24.58%]" data-node-id="15079:949" data-name="Camada_1">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCamada1} />
+        </div>
+        <div className="absolute h-[127.502px] left-[909px] top-[751px] w-[168.499px]" data-node-id="15079:959" data-name="Group">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup3} />
+        </div>
+      </div>
+      <div className="absolute h-[275px] left-[145px] right-[148px] top-[1035px]" data-node-id="15079:963" data-name="ABOUT">
+        <div className="absolute contents left-[717px] top-[-122px]" data-node-id="15079:964" data-name="Mask group">
+          <div className="absolute left-[950px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-233px_-377px] mask-size-[578px_1258px] size-[655px] top-[255px]" data-node-id="15079:966" style={{ maskImage: `url("${imgEllipse19}")` }}>
+            <div className="absolute inset-[-45.8%]">
+              <img alt="" className="block max-w-none size-full" src={imgEllipse20} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[32px] left-[-40px] top-[-73px] w-[522px]" data-node-id="15079:967" data-name="subtitle">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[32px] justify-center leading-[0] left-[107px] not-italic text-[14px] text-white top-[16px] tracking-[6px] uppercase w-[415px]" data-node-id="15079:968">
+            <p className="leading-[32px]">about Phagecon</p>
+          </div>
+          <div className="absolute bg-white h-px left-0 top-[16px] w-[79px]" data-node-id="15079:969" />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold h-[244px] leading-[48px] left-[-40px] text-[42px] text-white top-0 w-[615px]" data-node-id="15079:970">
+          Phagecon is a consultancy company that drives success in the pharmaceutical sector
+        </p>
+        <div className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[233px] leading-[0] left-[605px] not-italic text-[16px] text-white top-[291px] tracking-[0.6px] w-[585px] whitespace-pre-wrap" data-node-id="15079:971">
+          <p className="mb-0">
+            <span className="leading-[26px]">
+              Through innovative solutions, expert knowledge, and a commitment to excellence every step of the way
+              <br aria-hidden />
+              {`Driven by the increasing demands of a highly regulated and competitive market, `}
+            </span>
+            <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[26px] not-italic text-[#1d9dbc]">PHAGECON</span>
+            <span className="leading-[26px]">{` stands as a trusted consultancy partner for the `}</span>
+            <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[26px] not-italic text-[#1d9dbc]">pharmaceutical industries</span>
+            <span className="leading-[26px]">, delivering tailored solutions with exceptional scientific and technical expertise.</span>
+          </p>
+          <p className="leading-[26px] mb-0">​</p>
+          <p className="leading-[26px]">We are specialized in providing tailored solutions for the pharmaceutical industry, ensuring compliance with the latest safety, quality and regulatory standards.</p>
+        </div>
+        <div className="absolute contents left-[-41px] top-[926.37px]" data-node-id="15079:972" data-name="QUALITY">
+          <div className="absolute contents left-[-41px] top-[926.37px]" data-node-id="15079:973">
+            <div className="absolute bg-[rgba(202,111,250,0.65)] blur-[6px] inset-[926.37px_888.1px_-796.49px_-40px] rounded-[3px]" data-node-id="15079:974" data-name="bg-news" />
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold h-[40.081px] justify-center leading-[0] left-[108.68px] not-italic text-[24px] text-center text-white top-[999.04px] tracking-[4px] uppercase w-[299.358px]" data-node-id="15079:975">
+              <p className="leading-[32px]">RIGOUR</p>
+            </div>
+          </div>
+        </div>
+        <div className="absolute contents left-[267px] top-[926.37px]" data-node-id="15079:976" data-name="CONFIDENTIALITY">
+          <div className="absolute contents inset-[926.37px_577.67px_-796.49px_270.43px]" data-node-id="15079:977">
+            <div className="absolute bg-[rgba(202,111,250,0.65)] blur-[6px] inset-[926.37px_577.67px_-796.49px_270.43px] rounded-[3px]" data-node-id="15079:978" data-name="bg-news" />
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold h-[40.081px] justify-center leading-[0] left-[416.68px] not-italic text-[24px] text-center text-white top-[999.04px] tracking-[4px] uppercase w-[299.358px]" data-node-id="15079:979">
+            <p className="leading-[32px]">KNOWLEDGE</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[579px] top-[926.37px]" data-node-id="15079:980" data-name="EXCELLENCE">
+          <div className="absolute contents left-[579px] top-[926.37px]" data-node-id="15079:981">
+            <div className="absolute bg-[rgba(202,111,250,0.65)] blur-[6px] inset-[926.37px_266.84px_-796.49px_581.26px] rounded-[3px]" data-node-id="15079:982" data-name="bg-news" />
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold h-[40.081px] justify-center leading-[0] left-[728.68px] not-italic text-[24px] text-center text-white top-[999.04px] tracking-[4px] uppercase w-[299.358px]" data-node-id="15079:983">
+              <p className="leading-[32px]">TRUST</p>
+            </div>
+          </div>
+        </div>
+        <div className="absolute contents left-[890.64px] top-[926.37px]" data-node-id="15079:984" data-name="EFFICIENCY">
+          <div className="absolute contents left-[890.64px] top-[926.37px]" data-node-id="15079:985">
+            <div className="absolute bg-[rgba(202,111,250,0.65)] blur-[6px] inset-[926.37px_-42.54px_-796.49px_890.64px] rounded-[3px]" data-node-id="15079:986" data-name="bg-news" />
+            <div className="-translate-x-1/2 [word-break:break-word] absolute font-['Inter:Semi_Bold'] font-semibold h-[80px] leading-[0] left-[1040.5px] not-italic text-[24px] text-center text-white top-[968px] uppercase w-[299px]" data-node-id="15079:987">
+              <p className="leading-[34px] mb-0">COMMITMENT</p>
+              <p className="leading-[34px]">TO EXCELLENCE</p>
+            </div>
+          </div>
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[37px] leading-[26px] left-[575px] not-italic text-[16px] text-center text-white top-[867px] tracking-[0.6px] w-[1230px]" data-node-id="15079:988">
+          We base our activity in fundamental principles, internalized and practiced by the whole team:
+        </p>
+        <div className="absolute bg-[#1d9dbc] content-stretch flex gap-[8px] items-center justify-center left-[605px] px-[30px] py-[16px] rounded-[3px] top-[583px]" data-node-id="15079:989" data-name="Button style two">
+          <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:989;6:815">
+            Know More
+          </p>
+          <div className="relative shrink-0 size-[14px]" data-node-id="I15079:989;17:796" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+        <div className="absolute contents left-[274px] top-[230px]" data-node-id="15079:990" data-name="img-about-dir">
+          <div className="absolute h-[585px] left-[-122px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[396px_2px] mask-size-[301px_471px] top-[228px] w-[886px]" data-node-id="15079:992" style={{ maskImage: `url("${imgImgPhageconAbout2}")` }} data-name="img-phagecon-about 2">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute h-[100.98%] left-[-12.66%] max-w-none top-[-0.49%] w-full" src={imgImgPhageconAbout3} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute contents left-[-40px] top-[230px]" data-node-id="15079:993" data-name="img-about-esq">
+          <div className="absolute h-[585px] left-[-120px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[80px_2px] mask-size-[301px_581px] top-[228px] w-[886px]" data-node-id="15079:995" style={{ maskImage: `url("${imgImgPhageconAbout1}")` }} data-name="img-phagecon-about 1">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute h-[100.98%] left-[-12.87%] max-w-none top-[-0.4%] w-full" src={imgImgPhageconAbout3} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[854px] left-0 top-0 w-[1440px]" data-node-id="15079:996" data-name="HEADER">
+        <div className="absolute bg-[#301c6b] h-[854px] left-0 top-0 w-[1440px]" data-node-id="15079:997" data-name="bg-header" />
+        <div className="absolute h-[810px] left-0 top-[4px] w-[1440px]" data-node-id="15079:998" data-name="0_Animation_Dynamic_1280x720 1" />
+        <div className="absolute bg-gradient-to-b from-[31.85%] from-[rgba(48,28,107,0)] h-[814px] left-0 to-[#301c6b] top-0 w-[1440px]" data-node-id="15079:1012" data-name="filter-bottom" />
+        <div className="absolute flex h-[854px] items-center justify-center left-0 top-0 w-[1440px]" data-node-id="15079:1013">
+          <div className="flex-none rotate-180">
+            <div className="bg-gradient-to-b from-[76.62%] from-[rgba(48,28,107,0)] h-[854px] relative to-[#301c6b] w-[1440px]" data-name="filter-top" />
+          </div>
+        </div>
+        <div className="absolute contents left-0 top-0" data-node-id="15079:1014" data-name="Mask group">
+          <div className="absolute h-[900.43px] left-[-247.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[247.164px_34px] mask-size-[1440px_1131px] top-[-34px] w-[2042.548px]" data-node-id="15079:1016" style={{ maskImage: `url("${imgGlowElements}")` }} data-name="glow-elements">
+            <div className="absolute inset-[-44.42%_-19.58%]">
+              <img alt="" className="block max-w-none size-full" src={imgGlowElements1} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[400px] left-[-0.41px] right-[0.41px] top-[440px]" data-node-id="15079:1022" data-name="Container">
+          <div className="absolute border-solid border-t border-white inset-[305.91px_2.5%_93.09px_2.5%]" data-node-id="15079:1023" data-name="Horizontal Divider" />
+          <div className="-translate-x-1/2 absolute h-[19px] left-[calc(50%-632.5px)] top-[344.91px] w-[31px]" data-node-id="15079:1024" data-name="Link">
+            <div className="absolute h-[48px] left-[59.41px] top-[-20.91px] w-[171.86px]" data-node-id="15079:1025" data-name="Link → Button">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Medium'] font-medium h-[20px] justify-center leading-[0] left-[calc(50%-111.93px)] not-italic text-[12px] text-white top-[24px] tracking-[4px] uppercase w-[297px]" data-node-id="15079:1026">
+                <p className="leading-[24px]">SCROLL TO EXPLORE</p>
+              </div>
+              <div className="-translate-x-1/2 absolute h-[38px] left-[calc(50%+1108.16px)] top-[8.91px] w-[31px]" data-node-id="15079:1027" data-name="Container">
+                <div className="absolute h-[31px] left-0 right-0 top-0" data-node-id="15079:1028" data-name="SVG">
+                  <div className="absolute contents inset-0" data-node-id="15079:1029" data-name="Clip path group">
+                    <div className="absolute contents inset-0" data-node-id="15079:1032" data-name="Group">
+                      <div className="absolute contents inset-0" data-node-id="15079:1033" style={{ containerType: "size" }} data-name="Clip path group">
+                        <div className="absolute contents inset-[8.6%_19.07%_8.37%_19.07%]" data-node-id="15079:1036" style={{ containerType: "size" }} data-name="Group">
+                          <div className="absolute bottom-[8.6%] contents left-1/2 right-1/2 top-[8.6%]" data-node-id="15079:1037" style={{ containerType: "size" }} data-name="Group">
+                            <div className="absolute bottom-[8.6%] contents left-1/2 right-1/2 top-[8.6%]" data-node-id="15079:1038" style={{ containerType: "size" }} data-name="Group">
+                              <div className="absolute bottom-[8.6%] flex items-center justify-center left-1/2 right-1/2 top-[8.6%]" data-node-id="15079:1039" style={{ containerType: "size" }}>
+                                <div className="flex-none h-[0px] rotate-90 w-[100cqh]">
+                                  <div className="mask-position-[-15.5px_-2.667px,_-15.5px_-2.667px] mask-size-[31px_31px,_31px_31px] relative size-full" style={{ maskImage: `url("${imgVector}"), url("${imgVector1}")` }} data-name="Vector">
+                                    <div className="absolute inset-[-0.43px_-1.69%]">
+                                      <img alt="" className="block max-w-none size-full" src={imgVector2} />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div className="absolute contents inset-[60.7%_19.07%_8.37%_19.07%]" data-node-id="15079:1040" style={{ containerType: "size" }} data-name="Group">
+                            <div className="absolute contents inset-[60.7%_19.07%_8.37%_19.07%]" data-node-id="15079:1041" style={{ containerType: "size" }} data-name="Group">
+                              <div className="absolute flex inset-[60.7%_19.07%_8.37%_19.07%] items-center justify-center" data-node-id="15079:1042" style={{ containerType: "size" }}>
+                                <div className="flex-none h-[100cqw] rotate-90 w-[100cqh]">
+                                  <div className="mask-position-[-5.912px_-18.816px,_-5.912px_-18.816px] mask-size-[31px_31px,_31px_31px] relative size-full" style={{ maskImage: `url("${imgVector}"), url("${imgVector1}")` }} data-name="Vector">
+                                    <div className="absolute inset-[-2.26%_-4.51%]">
+                                      <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-[#1d9dbc] content-stretch flex gap-[8px] h-[56px] items-center justify-center left-[105px] px-[30px] py-[16px] rounded-[3px] top-[553px]" data-node-id="15079:1043" data-name="Button style two">
+          <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:1043;6:815">
+            Learn More
+          </p>
+          <div className="relative shrink-0 size-[14px]" data-node-id="I15079:1043;17:796" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Syne:SemiBold'] font-semibold leading-[58px] left-[105px] text-[56px] text-white top-[246px] w-[631px]" data-node-id="15079:1044">
+          Your trusted partner in the Pharmaceutical Industry
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[75px] leading-[28px] left-[105px] not-italic text-[18px] text-white top-[444px] w-[631px]" data-node-id="15079:1045">
+          We deliver expert solutions and strategic guidance to help pharmaceutical companies navigate complex regulatory challenges, optimise processes, and achieve their business goals.
+        </p>
+      </div>
+      <div className="absolute h-[100px] left-[-0.41px] right-[0.41px] top-0" data-node-id="15079:1046" data-name="MENU">
+        <div className="absolute h-[48px] left-[305.95px] right-[486.13px] top-[26px]" data-node-id="15079:1047" data-name="Nav → Nav → List">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:Medium'] font-medium h-[29px] justify-center leading-[0] left-[calc(50%-175.5px)] text-[0px] text-white top-[calc(50%+19.5px)] w-[632px]" data-node-id="15079:1048">
+            <p className="whitespace-pre-wrap">
+              <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[28px] not-italic text-[16px]">Home</span>
+              <span className="leading-[28px] text-[14px]">{`            `}</span>
+              <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[28px] not-italic text-[16px]">About Us</span>
+              <span className="leading-[28px] text-[14px]">{`  `}</span>
+              <span className="[word-break:break-word] font-['Font_Awesome_5_Free:Solid'] leading-[28px] not-italic text-[14px]">{`\uF107`}</span>
+              <span className="leading-[28px] text-[14px]">{`            `}</span>
+              <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[28px] not-italic text-[16px]">Services</span>
+              <span className="leading-[28px] text-[14px]">{`  `}</span>
+              <span className="[word-break:break-word] font-['Font_Awesome_5_Free:Solid'] leading-[28px] not-italic text-[14px]">{`\uF107`}</span>
+              <span className="leading-[28px] text-[14px]">{`            `}</span>
+              <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[28px] not-italic text-[16px]">{`News & Events`}</span>
+              <span className="leading-[28px] text-[14px]">{`            `}</span>
+              <span className="[word-break:break-word] font-['Inter:Semi_Bold'] font-semibold leading-[28px] not-italic text-[16px]">Contacts</span>
+              <span className="leading-[28px] text-[14px]">{`  `}</span>
+              <span className="[word-break:break-word] font-['Font_Awesome_5_Free:Solid'] leading-[28px] not-italic text-[14px]">{`\uF107`}</span>
+            </p>
+          </div>
+          <div className="absolute h-0 left-[149.46px] top-[65px] w-[44px]" data-node-id="15079:1049">
+            <div className="absolute inset-[-1.3px_0_0_0]">
+              <img alt="" className="block max-w-none size-full" src={imgLine1} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[60px] left-[82.41px] top-[45px] w-[262px]" data-node-id="15079:1050" data-name="logo-horizontal-tagline-negativo 2">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLogoHorizontalTaglineNegativo2} />
+        </div>
+        <div className="absolute bg-[#1d9dbc] content-stretch flex gap-[8px] h-[42px] items-center justify-center left-[1186.41px] px-[30px] py-[16px] rounded-[3px] top-[48px] w-[149px]" data-node-id="15079:1051" data-name="btn-menu">
+          <p className="[word-break:break-word] font-['Syne:SemiBold'] font-semibold leading-[1.5] relative shrink-0 text-[14px] text-white whitespace-nowrap" data-node-id="I15079:1051;6:815">
+            Join Our Team
+          </p>
+          <div className="relative shrink-0 size-[14px]" data-node-id="I15079:1051;17:796" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup4} />
+          </div>
+        </div>
+        <div className="absolute h-[19px] left-[1108.41px] top-[60px] w-[56px]" data-node-id="15079:1052" data-name="language">
+          <div className="-translate-x-full -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Syne:Medium'] font-medium h-[19px] justify-center leading-[0] left-[56px] text-[14px] text-right text-white top-1/2 w-[56px]" data-node-id="15079:1053">
+            <p className="leading-[16px]">PT</p>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 absolute left-[calc(50%-8px)] size-[18px] top-[calc(50%-0.5px)]" data-node-id="15079:1054" data-name="SVG">
+            <div className="absolute inset-[0_-16.67%_0_0]">
+              <img alt="" className="block max-w-none size-full" src={imgSvg} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
