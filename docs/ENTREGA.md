@@ -43,6 +43,7 @@ No Vercel existente: framework Next.js, raiz do repositório, comando `npm run b
 
 ## Publicação e cópias
 Destino indicado: https://github.com/Blendd-agencia/phagecon e https://vercel.com/gads-5906s-projects/phagecon-k21q.
-O conector Vercel reconhece a equipa, mas a listagem devolve zero projetos e a consulta ao destino devolve 404. Não houve publicação.
-O envio do vídeo ao GitHub público foi bloqueado pela revisão automática por faltar autorização explícita para esse recurso. Nenhum envio foi concluído.
+Publicado em https://phagecon-k21q.vercel.app/ em 10/11/2026 às 15:41:58 (Europe/Lisbon). Estado Ready / Production / Current, confirmado no painel Vercel. A integração GitHub–Vercel funcionou apesar da falha de listagem no conector.
+O utilizador autorizou explicitamente a publicação do projeto completo, vídeo e imagens. Os 61 ficheiros foram enviados e verificados. Commit da homepage: 9e8685ee8fe695a465c0a213504dc7f60a14b2ec. Vídeo confirmado a reproduzir no site publicado; sem erros de consola observados.
 O projeto e os recursos existem no disco local e nos ZIPs de entrega, independentemente da continuidade da conversa.
+
