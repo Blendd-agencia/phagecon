@@ -8,7 +8,8 @@ http.createServer((req, res) => {
  let file;
  try { const urlPath = decodeURIComponent(new URL(req.url, 'http://localhost').pathname); file = path.resolve(root, '.' + urlPath); } catch { res.writeHead(400).end(); return; }
  if (file !== root && !file.startsWith(root + path.sep)) { res.writeHead(403).end(); return; }
- if (fs.existsSync(file) && fs.statSync(file).isDirectory()) file = path.join(file, 'index.html');
+ if (fs.existsSync(path.join(file, 'index.html'))) file = path.join(file, 'index.html');
+ else if (fs.existsSync(file + '.html')) file += '.html';
  if (!fs.existsSync(file) || !fs.statSync(file).isFile()) { res.writeHead(404).end('Not found'); return; }
  const size = fs.statSync(file).size;
  const headers = { 'Content-Type': types[path.extname(file)] || 'application/octet-stream', 'Accept-Ranges': 'bytes' };

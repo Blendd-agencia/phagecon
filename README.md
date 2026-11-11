@@ -1,4 +1,27 @@
-# Phagecon — entrega recuperável, 10 novembro 2026
+# Phagecon — website, 11 novembro 2026
+
+## Versão atual — expansão com o roadmap
+
+15 páginas: homepage, About Us, índice de serviços, sete páginas de serviços, Regulatory News, Events & Training, Ask Us a Quotation, Join Our Team e General Contacts.
+
+Menu partilhado, páginas de serviços com índice e leitura por etapas, linha do tempo institucional, equipa, pesquisa e filtros de notícias e formulários com preparação de email.
+
+O mapa de páginas, decisões editoriais, origem dos conteúdos e pontos pendentes estão em [docs/ROADMAP-IMPLEMENTATION.md](docs/ROADMAP-IMPLEMENTATION.md).
+
+- O roadmap reúne Regulatory e Scientific Affairs: agora são sete serviços.
+- Notícias: seleção datada do arquivo existente, com links para as fontes; não é um feed automático.
+- Equipa: nomes e cargos fornecidos, com iniciais enquanto faltam as fotografias.
+- Eventos e vagas: templates preparados; só adicionar entradas confirmadas em `app/content/updates.ts`.
+- Formulários: validação, preparação de email, revisão e cópia da mensagem. O cliente confirmou que ainda não tem serviço de envio. Nenhum envio ou upload é simulado. O candidato anexa o CV na sua aplicação de email.
+- Newsletter: mantém a apresentação anterior e informa que as subscrições ainda não estão disponíveis.
+- Políticas legais apontam para o site existente; falta confirmar um perfil LinkedIn da Phagecon.
+- `noindex` mantido até aprovação do lançamento definitivo.
+
+Build de produção e TypeScript aprovados. Páginas verificadas em desktop e a 390px, sem overflow horizontal. Pesquisa, filtros, menu móvel, seleção do serviço e preparação de emails de orçamento e candidatura verificados no navegador, com dados fictícios e sem envio.
+
+## Registo histórico da homepage — 10 novembro 2026
+
+Os apontamentos abaixo documentam a entrega inicial. O âmbito e as limitações atuais são os descritos acima e em ROADMAP-IMPLEMENTATION.md.
 
 ## Conteúdo
 - Homepage Next.js/React com TypeScript e CSS, baseada no frame Figma 15079:793.
