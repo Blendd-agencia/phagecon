@@ -11,7 +11,7 @@ export function AmbientLight() {
     const section = light?.parentElement;
     if (!light || !section) return;
 
-    const motion = matchMedia('(prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine)');
+    const motion = matchMedia('(min-width: 741px) and (prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine)');
     let visible = false;
     let frame = 0;
     let previous = 0;

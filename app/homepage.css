@@ -17,6 +17,7 @@
 
 
 
-@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){.about-glow{will-change:transform}}
-@media(max-width:600px){.about-glow{width:420px;left:65%;opacity:.7}.service-description .service-icon{width:64px;height:64px}}
+@media(min-width:741px) and (hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){.about-glow{will-change:transform}}
+@media(max-width:740px){.about-glow{width:100%;left:50%;opacity:.7}}
+@media(max-width:600px){.service-description .service-icon{width:64px;height:64px}}
 .service-description .service-icon{object-fit:contain;object-position:left center}
