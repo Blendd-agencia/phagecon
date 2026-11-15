@@ -47,3 +47,5 @@
 @media(max-width:1000px){.service-experience .phase-content{gap:38px}}
 @media(max-width:740px){.service-experience .hero-copy{padding-top:145px}.service-experience .phase-content{grid-template-columns:1fr;gap:28px}.service-experience .phase-tab .phase-name{font-size:13px}.service-experience .related-service{font-size:17px}.service-experience .service-overview h2{font-size:25px}.service-experience .hero .hero-headline{letter-spacing:-1.4px}}
 @media print{.service-experience .phase-panel[hidden]{display:block!important}}
+
+.service-experience .hero:before{mask-image:linear-gradient(90deg,transparent,#000 45%);inset:0 0 0 35%;background:linear-gradient(0deg,#301c6b,transparent 75%),var(--service-image) center/cover}.service-experience .hero{background:none}.service-experience .hero .about-glow{opacity:.7}.service-experience .page-marquee{margin-top:0}
