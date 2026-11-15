@@ -1,3 +1,5 @@
+import { AmbientLight } from '../../components/ambient-light';
+import { PageMarquee } from '../../components/editorial';
 import type { CSSProperties } from 'react';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
@@ -43,12 +45,12 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
   ] };
   return <main id="main" className="service-experience" style={{ '--service-image': `url('/assets/${service.image ?? 'ef7ed.png'}')` } as CSSProperties}>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
-    <section className="hero"><div className="hero-copy wrap"><nav className="crumb" aria-label="Breadcrumb"><a href="/services">Services</a><span aria-hidden="true"> / </span><span>{service.name}</span></nav>
+    <section className="hero"><AmbientLight/><div className="hero-copy wrap"><nav className="crumb" aria-label="Breadcrumb"><a href="/services">Services</a><span aria-hidden="true"> / </span><span>{service.name}</span></nav>
       <h1 className="eyebrow service-title">{service.name}</h1><p className="hero-headline">{experience.headline[0]}<br /><em>{experience.headline[1]}</em></p>
       <p>{service.slug === 'regulatory-scientific-affairs' ? 'PHAGECON provides regulatory affairs and scientific consultancy for pharmaceutical companies, from Marketing Authorisation (MA) dossiers and submissions to market access and post-authorisation lifecycle management.' : service.summary}</p>
       <div className="hero-actions"><a className="button" href="#journey">Find your next step <span aria-hidden="true">↓</span></a><a className="subtle-link" href={enquiry}>Discuss your {service.slug === 'training' ? 'training needs' : 'project'} ↗</a></div></div>
       <div className="scope-line wrap"><span>{service.fact} · {service.factLabel}</span><span>Pharmaceutical expertise</span></div></section>
-    <section className="journey" id="journey"><div className="wrap"><div className="journey-heading"><div><p className="eyebrow">{service.slug === 'regulatory-scientific-affairs' ? 'Your product. Every stage.' : 'Your needs. Our expertise.'}</p><h2>{experience.journeyTitle}</h2></div><p className="aside-copy"><b>Start with the challenge in front of you.</b>{experience.journeyIntro}</p></div>
+    <PageMarquee text={service.name.toUpperCase()}/><section className="journey" id="journey"><div className="wrap"><div className="journey-heading"><div><p className="eyebrow">{service.slug === 'regulatory-scientific-affairs' ? 'Your product. Every stage.' : 'Your needs. Our expertise.'}</p><h2>{experience.journeyTitle}</h2></div><p className="aside-copy"><b>Start with the challenge in front of you.</b>{experience.journeyIntro}</p></div>
       <ServiceExplorer stages={experience.stages.map(({ id, name, hint }) => ({ id, name, hint }))}>{experience.stages.map(stage => <div className="phase-content" key={stage.id}>
         <div className="phase-story"><p className="eyebrow">{stage.eyebrow}</p><h3 id={`phase-heading-${stage.id}`}>{stage.title}</h3><p>{stage.description}</p><div className="phase-signature"><img src={serviceIcons[service.slug]} width="48" height="48" alt="" /><span>{service.factLabel}</span></div></div>
         <div className="capabilities">{stage.cards.map((card, index) => <CapabilityCard card={card} key={`${stage.id}-${index}`} />)}{service.slug === 'training' && stage.id === 'programmes' && <a className="subtle-link" href="/events">Explore Events &amp; Training ↗</a>}</div>
